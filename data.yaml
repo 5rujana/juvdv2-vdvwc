@@ -1,0 +1,48 @@
+
+# Train data
+train:
+  - D:\juvdv2-vdvwc-1\Train\Rainny\Day
+  - D:\juvdv2-vdvwc-1\Train\Rainny\Night
+  - D:\juvdv2-vdvwc-1\Train\Sunny\Day
+  - D:\juvdv2-vdvwc-1\Train\Sunny\Night
+
+# Train annotations
+train_annotations:
+  - D:\juvdv2-vdvwc-1\Annotation\Train\Rainny\Day
+  - D:\juvdv2-vdvwc-1\Annotation\Train\Rainny\Night
+  - D:\juvdv2-vdvwc-1\Annotation\Train\Sunny\Day
+  - D:\juvdv2-vdvwc-1\Annotation\Train\Sunny\Night
+
+#Val annotations
+val_annotations:
+  - D:\juvdv2-vdvwc-1\Annotation\Val\Rainny\Day
+  - D:\juvdv2-vdvwc-1\Annotation\Val\Rainny\Night
+  - D:\juvdv2-vdvwc-1\Annotation\Val\Sunny\Day
+  - D:\juvdv2-vdvwc-1\Annotation\Val\Sunny\Night
+
+# Validation data
+val:
+  - D:\juvdv2-vdvwc-1\Val\Rainny\Day
+  - D:\juvdv2-vdvwc-1\Val\Rainny\Night
+  - D:\juvdv2-vdvwc-1\Val\Sunny\Day
+  - D:\juvdv2-vdvwc-1\Val\Sunny\Night
+
+# Number of classes
+nc: 14
+
+# Class names
+names:
+  - car
+  - bike
+  - auto
+  - rickshaw
+  - cycle
+  - bus
+  - minitruck
+  - truck
+  - van
+  - taxi
+  - motorvan
+  - toto
+  - train
+  - boat 
