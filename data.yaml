@@ -28,7 +28,7 @@ val:
   - D:\juvdv2-vdvwc-1\Val\Sunny\Night
 
 # Number of classes
-nc: 14
+nc: 15
 
 # Class names
 names:
@@ -46,3 +46,4 @@ names:
   - toto
   - train
   - boat 
+  - cycle van
