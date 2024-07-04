@@ -1,31 +1,31 @@
 
 # Train data
 train:
-  - D:\juvdv2-vdvwc-1\Train\Rainny\Day
-  - D:\juvdv2-vdvwc-1\Train\Rainny\Night
-  - D:\juvdv2-vdvwc-1\Train\Sunny\Day
-  - D:\juvdv2-vdvwc-1\Train\Sunny\Night
+  - D:\juvdv2-vdvwc\Train\images\Rainny\Day
+  - D:\juvdv2-vdvwc\Train\images\Rainny\Night
+  - D:\juvdv2-vdvwc\Train\images\Sunny\Day
+  - D:\juvdv2-vdvwc\Train\Sunny\Night
 
 # Train annotations
 train_annotations:
-  - D:\juvdv2-vdvwc-1\Annotation\Train\Rainny\Day
-  - D:\juvdv2-vdvwc-1\Annotation\Train\Rainny\Night
-  - D:\juvdv2-vdvwc-1\Annotation\Train\Sunny\Day
-  - D:\juvdv2-vdvwc-1\Annotation\Train\Sunny\Night
+  - D:\juvdv2-vdvwc\Annotation\Train\Rainny\Day
+  - D:\juvdv2-vdvwc\Annotation\Train\Rainny\Night
+  - D:\juvdv2-vdvwc\Annotation\Train\Sunny\Day
+  - D:\juvdv2-vdvwc\Annotation\Train\Sunny\Night
 
 #Val annotations
 val_annotations:
-  - D:\juvdv2-vdvwc-1\Annotation\Val\Rainny\Day
-  - D:\juvdv2-vdvwc-1\Annotation\Val\Rainny\Night
-  - D:\juvdv2-vdvwc-1\Annotation\Val\Sunny\Day
-  - D:\juvdv2-vdvwc-1\Annotation\Val\Sunny\Night
+  - D:\juvdv2-vdvwc\Annotation\Val\images\Rainny\Day
+  - D:\juvdv2-vdvwc\Annotation\Val\images\Rainny\Night
+  - D:\juvdv2-vdvwc\Annotation\Val\images\Sunny\Day
+  - D:\juvdv2-vdvwc\Annotation\Val\images\Sunny\Night
 
 # Validation data
 val:
-  - D:\juvdv2-vdvwc-1\Val\Rainny\Day
-  - D:\juvdv2-vdvwc-1\Val\Rainny\Night
-  - D:\juvdv2-vdvwc-1\Val\Sunny\Day
-  - D:\juvdv2-vdvwc-1\Val\Sunny\Night
+  - D:\juvdv2-vdvwc\Val\Rainny\Day
+  - D:\juvdv2-vdvwc\Val\Rainny\Night
+  - D:\juvdv2-vdvwc\Val\Sunny\Day
+  - D:\juvdv2-vdvwc\Val\Sunny\Night
 
 # Number of classes
 nc: 15

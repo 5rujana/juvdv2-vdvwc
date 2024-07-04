@@ -1,0 +1,36 @@
+
+# Train data
+train:
+  - D:\juvdv2-vdvwc\Train\images
+# Train annotations
+train_labels:
+  - D:\juvdv2-vdvwc\Train\labels
+
+# Validation data
+val:
+  - D:\juvdv2-vdvwc\Val\images
+
+#Val annotations
+val_labels:
+  - D:\juvdv2-vdvwc\Val\labels
+
+# Number of classes
+nc: 15
+
+# Class names
+names:
+  - car
+  - bike
+  - auto
+  - rickshaw
+  - cycle
+  - bus
+  - minitruck
+  - truck
+  - van
+  - taxi
+  - motorvan
+  - toto
+  - train
+  - boat 
+  - cycle van
